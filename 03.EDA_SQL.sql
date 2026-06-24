@@ -12,7 +12,7 @@
 
   
    
-  
+   
 
 
 CREATE TABLE Rajmandir(
