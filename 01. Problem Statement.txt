@@ -1,5 +1,5 @@
 1. Problem Statement. 
-               
+                 
 The goal of this analysis is to:
            
 Understand sales trends over time (monthly, weekly, hourly)
